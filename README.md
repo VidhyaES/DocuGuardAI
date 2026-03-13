@@ -5,7 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-docuguardai.onrender.com-00e5ff?style=for-the-badge)](https://docuguardai.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VidhyaES-181717?style=for-the-badge&logo=github)](https://github.com/VidhyaES)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vidhya--es-7c3aed?style=for-the-badge](https://vidhya-es-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vidhya--es-7c3aed?style=for-the-badge)](https://vidhya-es-portfolio.vercel.app/)
 
 ---
 
